@@ -10,8 +10,10 @@
 
 ## Plugins
 
-- [Polybar Gmail](https://github.com/vyachkonovalov/polybar-gmail)
-
+- [Gmail](https://github.com/vyachkonovalov/polybar-gmail)
+- [Crypto](https://github.com/willHol/polybar-crypto)
+- [Bitfinex](https://github.com/BrunnerLivio/bitfinex-polybar)
+- [Spotify](https://github.com/Jvanrhijn/polybar-spotify)
 
 ## Contribute
 
