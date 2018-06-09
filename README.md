@@ -14,6 +14,13 @@
 - [Crypto](https://github.com/willHol/polybar-crypto)
 - [Bitfinex](https://github.com/BrunnerLivio/bitfinex-polybar)
 - [Spotify](https://github.com/Jvanrhijn/polybar-spotify)
+- [GitHub](https://github.com/TiagoDanin/Polybar-GitHub)
+- [Animations](https://github.com/unix121/polybar-animations)
+- [Updates Archlinux](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/updates-arch)
+- [Cpu Temppercore](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-cpu-temppercore)
+- [Fan Speed](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-fan-speed)
+- [Is Active Bluetooth?](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/isactive-bluetooth)
+- [Inbox Reddit](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/inbox-reddit)
 
 ## Contribute
 
