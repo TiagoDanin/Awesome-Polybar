@@ -21,6 +21,7 @@
 - [Fan Speed](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-fan-speed)
 - [Is Active Bluetooth?](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/isactive-bluetooth)
 - [Inbox Reddit](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/inbox-reddit)
+- [Lastfm](https://github.com/TiagoDanin/Polybar-Lastfm)
 
 ## Contribute
 
