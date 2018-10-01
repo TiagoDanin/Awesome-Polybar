@@ -22,6 +22,13 @@
 - [Is Active Bluetooth?](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/isactive-bluetooth)
 - [Inbox Reddit](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/inbox-reddit)
 - [Lastfm](https://github.com/TiagoDanin/Polybar-Lastfm)
+- [Polynews](https://github.com/zemmsoares/polynews)
+- [Terminal Tabs](https://github.com/Nikzt/polybar-terminal-tabs)
+- [Checkupdate](https://github.com/guiemi/polybar-checkupdate)
+- [Forecast](https://github.com/kamek-pf/polybar-forecast)
+- [Cmus](https://github.com/raytruong/polybar-cmus)
+- [Docker Script](https://github.com/kerwanp/polybar-script-docker)
+- [Taskwarrior](https://github.com/dakuten/taskwarrior-polybar)
 
 ## Contribute
 
