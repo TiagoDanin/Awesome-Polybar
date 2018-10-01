@@ -23,13 +23,16 @@
 - [Inbox Reddit](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/inbox-reddit)
 - [Lastfm](https://github.com/TiagoDanin/Polybar-Lastfm)
 - [Now Playing](https://github.com/0nse/now_playing)
-- [PolyNews](https://github.com/zemmsoares/polynews)
+- [Poly News](https://github.com/zemmsoares/polynews)
 - [Unseen Mail](https://framagit.org/DanaruDev/UnseenMail)
 - [Battery Level](https://github.com/drdeimos/polybar_another_battery)
-- [Forecase](https://github.com/kamek-pf/polybar-forecast)
 - [Terminal Tabs](https://github.com/Nikzt/polybar-terminal-tabs)
 - [Task Warrior](https://github.com/dakuten/taskwarrior-polybar)
-
+- [Checkupdate](https://github.com/guiemi/polybar-checkupdate)
+- [Forecast](https://github.com/kamek-pf/polybar-forecast)
+- [Cmus](https://github.com/raytruong/polybar-cmus)
+- [Docker Script](https://github.com/kerwanp/polybar-script-docker)
+- [Taskwarrior](https://github.com/dakuten/taskwarrior-polybar)
 
 ## Contribute
 
