@@ -6,6 +6,7 @@
 ## Contents
 
 - [Plugins](#plugins)
+- [Developer](#developer)
 
 
 ## Plugins
@@ -33,6 +34,10 @@
 - [Cmus](https://github.com/raytruong/polybar-cmus)
 - [Docker Script](https://github.com/kerwanp/polybar-script-docker)
 - [Taskwarrior](https://github.com/dakuten/taskwarrior-polybar)
+
+## Developer
+
+- [Node Helpers](https://github.com/TiagoDanin/Polybar-Helpers)
 
 ## Contribute
 
