@@ -34,6 +34,7 @@
 - [Cmus](https://github.com/raytruong/polybar-cmus)
 - [Docker Script](https://github.com/kerwanp/polybar-script-docker)
 - [Taskwarrior](https://github.com/dakuten/taskwarrior-polybar)
+- [Break Timer](https://github.com/TiagoDanin/Polybar-Break-Timer)
 
 ## Developer
 
