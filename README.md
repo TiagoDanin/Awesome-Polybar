@@ -35,6 +35,7 @@
 - [Docker Script](https://github.com/kerwanp/polybar-script-docker)
 - [Break Timer](https://github.com/TiagoDanin/Polybar-Break-Timer)
 - [Systemd Services](https://github.com/erayaydin/polybar-services)
+- [Pulseaudio Control](https://github.com/marioortizmanero/polybar-pulseaudio-control)
 
 ## Developer
 
