@@ -36,6 +36,9 @@
 - [Break Timer](https://github.com/TiagoDanin/Polybar-Break-Timer)
 - [Systemd Services](https://github.com/erayaydin/polybar-services)
 - [Pulseaudio Control](https://github.com/marioortizmanero/polybar-pulseaudio-control)
+- [i3 Windows](https://github.com/meelkor/polybar-i3-windows)
+- [Bspwm](https://github.com/altrgeek/bspwm-polybar)
+
 
 ## Developer
 
