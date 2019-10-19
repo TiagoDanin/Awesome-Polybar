@@ -9,9 +9,9 @@ Dependencies
 Configuration
 You have to add the pwrstat command to the /etc/sudoers NOPASSWD of your user:
 
-user ALL=(ALL) NOPASSWD: /usr/bin/pwrstat
-Module
-[module/battery-cyberpower]
-type = custom/script
-exec = ~/polybar-scripts/battery-cyberpower.sh
-tail = true
+`user ALL=(ALL) NOPASSWD: /usr/bin/pwrstat`
+`Module
+[module/battery-cyberpower]`
+`type = custom/script`
+`exec = ~/polybar-scripts/battery-cyberpower.sh`
+`tail = true`
