@@ -1,16 +1,11 @@
 # Script Battery-Power
 
-A shell script that shows the battery status for UPS devices.
-
-It is able to display power supply changes in real time.
-
 
 # Dependencies
-`pwrstat` from CyberPower's website
+`pwrstat` 
 
 # Configuration
 
-You have to add the pwrstat command to the /etc/sudoers NOPASSWD of your user:
 
 `user ALL=(ALL) NOPASSWD: /usr/bin/pwrstat`
 
