@@ -38,6 +38,7 @@
 - [Pulseaudio Control](https://github.com/marioortizmanero/polybar-pulseaudio-control)
 - [i3 Windows](https://github.com/meelkor/polybar-i3-windows)
 - [Bspwm](https://github.com/altrgeek/bspwm-polybar)
+- [pomod](https://github.com/liquid600pgm/pomod)
 
 
 ## Developer
