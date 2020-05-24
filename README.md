@@ -12,6 +12,7 @@
 ## Plugins
 
 - [Gmail](https://github.com/vyachkonovalov/polybar-gmail)
+- [ProtonMail](https://github.com/vyachkonovalov/bar-protonmail)
 - [Crypto](https://github.com/willHol/polybar-crypto)
 - [Bitfinex](https://github.com/BrunnerLivio/bitfinex-polybar)
 - [Spotify](https://github.com/Jvanrhijn/polybar-spotify)
