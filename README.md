@@ -43,6 +43,8 @@
 - [KDEConnect](https://github.com/HackeSta/polybar-kdeconnect)
 - [Browser Media](https://github.com/HackeSta/polybar-browsermediacontrol)
 - [qBittorrent](https://github.com/HackeSta/polybar-qbittorrent)
+- [speedtest.net](https://github.com/HackeSta/polybar-speedtest)
+
 
 ## Developer
 
