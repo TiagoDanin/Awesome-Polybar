@@ -44,6 +44,8 @@
 - [Browser Media](https://github.com/HackeSta/polybar-browsermediacontrol)
 - [qBittorrent](https://github.com/HackeSta/polybar-qbittorrent)
 - [speedtest.net](https://github.com/HackeSta/polybar-speedtest)
+- [Calendar/Weather/Pomodoro/Notifications/etc](https://github.com/kantord/status-one-liner)
+- [Gnome Pomodoro](https://github.com/kantord/i3-gnome-pomodoro)
 
 
 ## Developer
