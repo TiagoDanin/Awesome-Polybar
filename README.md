@@ -45,6 +45,7 @@
 - [qBittorrent](https://github.com/HackeSta/polybar-qbittorrent)
 - [speedtest.net](https://github.com/HackeSta/polybar-speedtest)
 - [Spotify (with scrolling)](https://github.com/PrayagS/polybar-spotify)
+- [PulseEffects Presets](https://github.com/marioortizmanero/polybar-pulseeffects-presets)
 
 
 ## Developer
