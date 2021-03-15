@@ -46,6 +46,8 @@
 - [speedtest.net](https://github.com/HackeSta/polybar-speedtest)
 - [Status one liner](https://github.com/kantord/status-one-liner)
 - [Gnome Pomodoro](https://github.com/kantord/i3-gnome-pomodoro)
+- [Spotify (with scrolling)](https://github.com/PrayagS/polybar-spotify)
+- [PulseEffects Presets](https://github.com/marioortizmanero/polybar-pulseeffects-presets)
 
 
 ## Developer
