@@ -13,6 +13,7 @@
 
 - [Gmail](https://github.com/vyachkonovalov/polybar-gmail)
 - [ProtonMail](https://github.com/vyachkonovalov/bar-protonmail)
+- [ProtonCheck](https://github.com/servusdei2018/protoncheck)
 - [Crypto](https://github.com/willHol/polybar-crypto)
 - [Bitfinex](https://github.com/BrunnerLivio/bitfinex-polybar)
 - [Spotify](https://github.com/Jvanrhijn/polybar-spotify)
