@@ -49,6 +49,7 @@
 - [Gnome Pomodoro](https://github.com/kantord/i3-gnome-pomodoro)
 - [Spotify (with scrolling)](https://github.com/PrayagS/polybar-spotify)
 - [PulseEffects Presets](https://github.com/marioortizmanero/polybar-pulseeffects-presets)
+- [System notifications](https://github.com/anufrievroman/polytiramisu)
 
 
 ## Developer
