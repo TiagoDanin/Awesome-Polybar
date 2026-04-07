@@ -17,6 +17,7 @@
 - [Crypto](https://github.com/willHol/polybar-crypto)
 - [Bitfinex](https://github.com/BrunnerLivio/bitfinex-polybar)
 - [Spotify](https://github.com/Jvanrhijn/polybar-spotify)
+- [Tidal](https://github.com/monadplus/polybar-tidal)
 - [GitHub](https://github.com/TiagoDanin/Polybar-GitHub)
 - [Animations](https://github.com/unix121/polybar-animations)
 - [Updates pacman aurhelper](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-pacman-aurhelper)
