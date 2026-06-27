@@ -42,6 +42,7 @@
 - [i3 Windows](https://github.com/meelkor/polybar-i3-windows)
 - [Bspwm](https://github.com/altrgeek/bspwm-polybar)
 - [pomod](https://github.com/liquid600pgm/pomod)
+- [pomoc](https://github.com/cobra-r9/pomoc)
 - [KDEConnect](https://github.com/HackeSta/polybar-kdeconnect)
 - [Browser Media](https://github.com/HackeSta/polybar-browsermediacontrol)
 - [qBittorrent](https://github.com/HackeSta/polybar-qbittorrent)
