@@ -51,6 +51,7 @@
 - [Spotify (with scrolling)](https://github.com/PrayagS/polybar-spotify)
 - [PulseEffects Presets](https://github.com/marioortizmanero/polybar-pulseeffects-presets)
 - [Polytiramisu](https://github.com/anufrievroman/polytiramisu)
+- [Claude Code Agents](https://github.com/maahumada/ccoverseer)
 
 
 ## Developer
